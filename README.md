@@ -87,29 +87,93 @@ Aspiring Data Scientist and Machine Learning enthusiast, working in Python and S
 
 <br>
 
-## 03 — Selected Projects
+## 03 — Selected Work & Technical Exploration
 
-<sub><code>PLACEHOLDERS: REPLACE WITH REAL PROJECTS AS THEY ARE COMPLETED</code></sub>
+<sub><code>THREE AREAS OF PRACTICE ACROSS THE DATA SCIENCE WORKFLOW</code></sub>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <sub><code>PROJECT 01</code></sub>
-      <h4>[ Project title ]</h4>
-      <p><b>Problem.</b> [ One or two sentences on the question this project answers. ]</p>
-      <p><b>Stack.</b> [ e.g. Python, Pandas, Scikit-learn ]</p>
-      <p><b>Implementation.</b> [ The key technique or decision that defines the work. ]</p>
-      <p><a href="https://github.com/rakibulhasandipu?tab=repositories">Repository &rarr;</a></p>
+    <td width="24%" valign="top">
+      <sub><code>A / 01</code></sub><br>
+      <b>Data Analysis<br>&amp; Exploration</b>
     </td>
-    <td width="50%" valign="top">
-      <sub><code>PROJECT 02</code></sub>
-      <h4>[ Project title ]</h4>
-      <p><b>Problem.</b> [ One or two sentences on the question this project answers. ]</p>
-      <p><b>Stack.</b> [ e.g. Python, Matplotlib, Seaborn ]</p>
-      <p><b>Implementation.</b> [ The key technique or decision that defines the work. ]</p>
-      <p><a href="https://github.com/rakibulhasandipu?tab=repositories">Repository &rarr;</a></p>
+    <td valign="top">
+      Understanding a dataset comes before modeling it. I use Python, Pandas, and NumPy
+      to inspect structure, clean inconsistencies, and surface patterns, then
+      communicate them through clear Matplotlib and Seaborn visualizations.
+      <br><br>
+      <sub><code>LEARNING DIRECTION</code></sub><br>
+      Asking sharper questions of data, and choosing the chart that actually answers them.
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-1F3A5F?style=flat-square" alt="Python">
+      <img src="https://img.shields.io/badge/Pandas-1F3A5F?style=flat-square" alt="Pandas">
+      <img src="https://img.shields.io/badge/NumPy-1F3A5F?style=flat-square" alt="NumPy">
+      <img src="https://img.shields.io/badge/EDA-1F3A5F?style=flat-square" alt="Exploratory Data Analysis">
+      <img src="https://img.shields.io/badge/Data_Cleaning-1F3A5F?style=flat-square" alt="Data Cleaning">
+      <img src="https://img.shields.io/badge/Matplotlib-1F3A5F?style=flat-square" alt="Matplotlib">
+      <img src="https://img.shields.io/badge/Seaborn-1F3A5F?style=flat-square" alt="Seaborn">
     </td>
   </tr>
+  <tr>
+    <td width="24%" valign="top">
+      <sub><code>B / 02</code></sub><br>
+      <b>Machine<br>Learning</b>
+    </td>
+    <td valign="top">
+      Studying how supervised models learn from labeled data. With Scikit-learn, I work
+      through K-Nearest Neighbors and Decision Trees: how each makes predictions, and
+      where each one breaks down.
+      <br><br>
+      <sub><code>LEARNING DIRECTION</code></sub><br>
+      Understanding why a model behaves the way it does, not only what it predicts.
+      <br><br>
+      <img src="https://img.shields.io/badge/Scikit--learn-1F3A5F?style=flat-square" alt="Scikit-learn">
+      <img src="https://img.shields.io/badge/KNN-1F3A5F?style=flat-square" alt="K-Nearest Neighbors">
+      <img src="https://img.shields.io/badge/Decision_Trees-1F3A5F?style=flat-square" alt="Decision Trees">
+      <img src="https://img.shields.io/badge/Supervised_Learning-1F3A5F?style=flat-square" alt="Supervised Learning Fundamentals">
+    </td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top">
+      <sub><code>C / 03</code></sub><br>
+      <b>Data<br>Preprocessing</b>
+    </td>
+    <td valign="top">
+      A model is only as reliable as the data feeding it. I practice handling missing
+      values, detecting outliers, and bringing features onto comparable scales with
+      StandardScaler and MinMaxScaler.
+      <br><br>
+      <sub><code>LEARNING DIRECTION</code></sub><br>
+      Knowing which preparation step an algorithm actually needs. Distance-based KNN, for
+      example, is sensitive to feature scale.
+      <br><br>
+      <img src="https://img.shields.io/badge/Missing_Value_Handling-1F3A5F?style=flat-square" alt="Missing Value Handling">
+      <img src="https://img.shields.io/badge/Outlier_Detection-1F3A5F?style=flat-square" alt="Outlier Detection">
+      <img src="https://img.shields.io/badge/StandardScaler-1F3A5F?style=flat-square" alt="StandardScaler">
+      <img src="https://img.shields.io/badge/MinMaxScaler-1F3A5F?style=flat-square" alt="MinMaxScaler">
+    </td>
+  </tr>
+
+  <!--
+    WHEN YOU COMPLETE A REAL PROJECT
+    Copy the block below and paste it directly under the area it belongs to
+    (inside this table, after that area's closing </tr>). Fill in only true details.
+
+  <tr>
+    <td width="24%" valign="top">
+      <sub><code>PROJECT</code></sub>
+    </td>
+    <td valign="top">
+      <b>Your real project title</b><br>
+      One or two sentences on the question it answers and the approach you took.
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-1F3A5F?style=flat-square" alt="Python">
+      <img src="https://img.shields.io/badge/Pandas-1F3A5F?style=flat-square" alt="Pandas">
+      <br><br>
+      <a href="https://github.com/rakibulhasandipu/YOUR-REAL-REPO">Repository &rarr;</a>
+    </td>
+  </tr>
+  -->
 </table>
 
 <br>
