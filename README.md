@@ -1,18 +1,80 @@
-<h1 align="center">Hi 👋, I'm Rakibul Hasan</h1>
-<h3 align="center">Exploring, Experimenting, Evolving</h3>
+# Hi, I'm Rakibul Hasan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibulhasandipu&label=Profile%20views&color=0e75b6&style=flat" alt="rakibulhasandipu" /> </p>
+### Aspiring Data Scientist | Machine Learning Enthusiast
 
-- 🌱 I’m currently learning **C programing**
+I am an aspiring Data Scientist passionate about transforming raw data into meaningful insights and building practical machine learning solutions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/rakibul.hasan.66206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakibul.hasan.66206" height="30" width="40" /></a>
-</p>
+Currently, I am strengthening my knowledge of Python, Data Analysis, Statistics, and Machine Learning through continuous learning and hands-on projects.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+I enjoy exploring datasets, discovering patterns, solving problems, and developing data-driven solutions.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibulhasandipu&show_icons=true&locale=en&layout=compact" alt="rakibulhasandipu" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibulhasandipu&" alt="rakibulhasandipu" /></p>
+## 🚀 About Me
+
+- 📊 Interested in Data Science, Data Analysis, and Machine Learning.
+- 🐍 Working with Python for data analysis and model development.
+- 📈 Learning data visualization and statistical techniques.
+- 🤖 Exploring machine learning algorithms and practical applications.
+- 🧠 Continuously improving my technical and problem-solving skills.
+- 🎯 Open to learning opportunities, collaborations, internships, and freelance projects.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Language
+- Python
+- SQL
+
+### Data Analysis & Manipulation
+- NumPy
+- Pandas
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Missing Value Handling
+- Outlier Detection
+
+### Data Visualization
+- Matplotlib
+- Seaborn
+
+### Data Preprocessing
+- StandardScaler
+- MinMaxScaler
+- Feature Scaling
+
+### Machine Learning
+- Scikit-learn
+- K-Nearest Neighbors (KNN)
+- Decision Tree
+- Machine Learning Fundamentals
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Machine Learning
+- Feature Engineering
+- Model Evaluation and Optimization
+- Real-world Data Science Projects
+
+---
+
+## 💻 Featured Projects
+
+I am continuously working on practical projects to strengthen my knowledge and demonstrate my skills.
+
+More projects coming soon!
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/rakibulhasandipu
+
+Feel free to explore my repositories and connect with me!
+
+---
+
+⭐ *Learning every day. Building consistently. Growing with data.*
